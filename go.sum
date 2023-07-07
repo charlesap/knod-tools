@@ -1,0 +1,6 @@
+github.com/charlesap/knod v0.0.0-20230707194901-56cc16c8b35f h1:7AS1iDA20Yu/vUyzcIVu8wPL/AUJWalcsm3keLO/NX0=
+github.com/charlesap/knod v0.0.0-20230707194901-56cc16c8b35f/go.mod h1:xg9E+Xr8ZW26BV1mtLoLcs6AeqWsVe788XyWgln3jQ8=
+github.com/nofeaturesonlybugs/errors v1.1.1 h1:hB+r5k391E9p/RwXYfLbkzmyzM+U4QLLe+Kt4SXa3uQ=
+github.com/nofeaturesonlybugs/errors v1.1.1/go.mod h1:nduBPri47dRYPSfaHxuboF0/Z2835DHp4qw9mtz8WeI=
+github.com/nofeaturesonlybugs/z85 v1.0.2 h1:aIWIDO4qMRxfnqkL1FHQhzcEn2X7v7/ogwH5mwMi+e0=
+github.com/nofeaturesonlybugs/z85 v1.0.2/go.mod h1:ZPmpZx9dP1tlJ1dUkosEOvlLXXChbE6+QwCjXzzU0Fo=
